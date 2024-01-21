@@ -17,7 +17,7 @@ ____________________
 ## <p align="center">_Решение_</p>
 <h3>Файл header.php</h3>
 
-```php
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,7 +31,7 @@ ____________________
 ```
 <h3>Файл footer.php</h3>
 
-```php
+```html
 </body>
 </html>
 ```
